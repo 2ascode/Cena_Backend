@@ -1,8 +1,8 @@
 <?php
-$username = "sql109.infinityfree.com";
-$servername = "f0_40133473";
-$password = "o8rCfqeOTkH";
-$dbname = "if0_40133473_cena_db";
+$username = "https://cena-database.onrender.com";
+$servername = "enigme";
+$password = "Enigme96@";
+$dbname = "cena_db";
 
 try {
     $pdo = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
