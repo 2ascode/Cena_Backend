@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: cena-backend
-    env: php
-    plan: free
-    buildCommand: ""
-    startCommand: ""
-    rootDir: .

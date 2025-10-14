@@ -1,0 +1,7 @@
+{
+  "name": "mon-projet/php-backend",
+  "require": {
+    "php": "^8.0"
+  }
+}
+
