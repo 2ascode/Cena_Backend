@@ -1,8 +1,8 @@
 <?php
-$username = "https://cena-database.onrender.com";
-$servername = "enigme";
-$password = "Enigme96@";
+$servername = "https://cena-database.onrender.com";
 $dbname = "cena_db";
+$username = "enigme";
+$password = "Enigme96@";
 
 try {
     $pdo = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
